@@ -1,0 +1,9 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "javascript",
+      "description": "Đây là khóa học javascript"
+    }
+  ]
+}

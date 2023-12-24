@@ -1,0 +1,23 @@
+VẤN ĐỀ 1: THAM SỐ VÀ ĐỐI SỐ
+
+parameters: tham số
+Tham số của hàm (function parameter) là biến được định nghĩa trong hàm.
+
+VD:
+function hello(name) {
+    alert("Xin chào, " + name);
+}
+
+Ta nói: hàm hello có một tham số là name.
+
+arguments: đối số
+Đối số của hàm (function argument) là giá trị thực tế truyền vào cho tham số khi gọi hàm.
+
+VD:
+hello("CodeHeb.vn");
+
+Ta nói: giá trị của đối số truyền vào là chuỗi "CodeHub.vn"
+	
+VẤN ĐỀ 2: THAM CHIẾU VÀ THAM TRỊ
+
+https://viblo.asia/p/tham-chieu-va-tham-tri-trong-javascript-RQqKL6X0l7z
